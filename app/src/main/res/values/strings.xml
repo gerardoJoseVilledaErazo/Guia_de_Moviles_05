@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Orientacion_de_pantallas</string>
+    <string name="Conversations">Conversations</string>
+    <string name="login">Login</string>
+    <string name="calc">Calculadora</string>
+    <string name="MyData">Ver Datos</string>
+
+    <string name="name">Nombre</string>
+    <string name="message">Message</string>
+    <string name="time">Time</string>
+
+
+    <string name="DevBy">Desarrollado por:</string>
+    <string name="Dev">Developer</string>
+    <string name="Name">Nombre:</string>
+    <string name="MyName">Gerardo José Villeda Erazo</string>
+    <string name="Code">Código:</string>
+    <string name="MyCode">VE16I04001@usonsonate.edu.sv</string>
+
+    <string name="msgMenu" translatable="false">Menu</string>
+
+    <string name="msgCancel" translatable="false">RESET</string>
+    <string name="conditions" translatable="false">I accept terms and conditions.</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="LOGIN">LOGIN</string>
+
+
+    <string name="signDAC">AC</string>
+    <string name="signDe">DEL</string>
+    <string name="signPer">%</string>
+    <string name="signDivision">/</string>
+    <string name="signMul">*</string>
+    <string name="signRes">-</string>
+    <string name="signSum">+</string>
+    <string name="signIg">=</string>
+
+    <string name="signSin">sin</string>
+    <string name="signCos">cos</string>
+    <string name="signTan">tan</string>
+    <string name="signLn">ln</string>
+    <string name="signLog">log</string>
+    <string name="signE">e</string>
+    <string name="signPrtOpen">(</string>
+    <string name="signPrtClose">)</string>
+    <string name="signDeg">DEG</string>
+    <string name="signInv">INV</string>
+    <string name="signPot">ᶺ</string>
+    <string name="signSqr">√</string>
+    <string name="signAdm">!</string>
+</resources>
